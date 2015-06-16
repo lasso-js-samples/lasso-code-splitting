@@ -1,0 +1,22 @@
+{
+  "name": "lasso-code-splitting",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lasso-js-samples/lasso-code-splitting.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.1.0",
+    "express": "^4.9.0",
+    "lasso": "^1.9.2",
+    "marko": "^2.7.1",
+    "serve-static": "^1.6.1"
+  }
+}
