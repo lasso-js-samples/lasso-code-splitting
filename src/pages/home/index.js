@@ -1,5 +1,4 @@
-var template = require('marko')
-    .load(require.resolve('./template.marko'));
+var template = require('./template.marko');
 
 module.exports = function(req, res) {
     template.render({
